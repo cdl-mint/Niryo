@@ -107,14 +107,14 @@ This is an example of how to list things you need to use the software and how to
 1. First install the Ubuntu 18.04 on the remote PC
 2. Then install the ROS melodic on to the Niryo Ned Robot
 3. When the installation of the packages are done, then the python API can be started. 
-4. For the installation steps, please see the website: <a href="https://docs.niryo.com/product/ned/v3.1.1/en/source/software/niryo_studio.html">
+4. For the installation steps, please see the website: < href="https://docs.niryo.com/product/ned/v3.1.1/en/source/software/niryo_studio.html">
+
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+The Ned robot can be used for industrial and/or educational purposes. 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
