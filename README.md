@@ -96,11 +96,7 @@ We have used the Ned robot for our CDL MINT projects for several cases. On our r
 Here, you will find the general steps necessary for starting any ROS or python API project with Ned and then you will find the several st
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Having the necessary hardware available for the project.
 
 ### Installation
 
