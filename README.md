@@ -110,9 +110,9 @@ Having the necessary hardware available for the project.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-The Ned robot can be used for industrial and/or educational purposes. 
+The Ned robot can be used for industrial and/or educational purposes. The folders have the different use cases for the Niryo robots. Our use case for the educational purpose is the Tic-Tac-Toe game. 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Our industrial use case is the Niryo Ned robot with the ROS programming and the conveyor belts.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
