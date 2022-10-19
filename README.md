@@ -134,14 +134,7 @@ Youtube Link: [https://www.youtube.com/channel/UC4Gn8bjBU00AME4R17MIqgA](youtube
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
 
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
