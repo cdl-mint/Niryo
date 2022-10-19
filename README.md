@@ -27,7 +27,7 @@
     <img src="images/Niryo_logo.png" alt="Logo" width="200" height="80">
   </a>
 
-<h3 align="center">Niryo Ned Robots</h3>
+<h3 align="center">Niryo Ned Robot Projects</h3>
 
   <p align="center">
     Niryo Robots
