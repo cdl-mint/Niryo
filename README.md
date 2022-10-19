@@ -76,8 +76,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-This project gives you a step by step way to show how to use the Ned robot to play the Vision TicTacToe game. 
+We have used the Ned robot for our CDL MINT projects for several cases. On our repository you may find these projects in seperate folders. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -94,9 +93,7 @@ This project gives you a step by step way to show how to use the Ned robot to pl
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
+Here, you will find the general steps necessary for starting any ROS or python API project with Ned and then you will find the several st
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
@@ -110,6 +107,7 @@ This is an example of how to list things you need to use the software and how to
 1. First install the Ubuntu 18.04 on the remote PC
 2. Then install the ROS melodic on to the Niryo Ned Robot
 3. When the installation of the packages are done, then the python API can be started. 
+4. For the installation steps, please see the website: <a href="https://docs.niryo.com/product/ned/v3.1.1/en/source/software/niryo_studio.html">
 
 
 
