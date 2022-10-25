@@ -1,1 +1,1 @@
-Our Projects were mainly focused on developing via ROS1. For industrial and educational purposes. 
+The projects were developed with ROS1 on the Ned robot.  
