@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://niryo.com/product/ned-education-research-cobot/">
-    <img src="images/Niryo_logo.png" alt="Logo" width="200" height="80">
+    <img src="images/Niryo_logo.png" alt="Logo" width="200" height="100">
   </a>
 
 <h3 align="center">Niryo Ned Robot Projects</h3>
