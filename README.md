@@ -75,7 +75,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
- <img src="images/Niryo_ned_robot.png" alt="Logo" width="200" height="100">
+ <img src="images/Niryo_ned_robot.png" alt="Logo" width="300" height="200">
 We have used the Ned robot for our CDL MINT projects for several cases. On our repository you may find these projects in seperate folders. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
