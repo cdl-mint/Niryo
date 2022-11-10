@@ -1,11 +1,11 @@
-global_z_offset: 0.02
+global_z_offset: 0.01
 observation_pose:
-- 0.246
-- 0.000
-- 0.268
-- -0.006
-- 1.503
-- 0.001
+- 0.228
+- -0.025
+- 0.251
+- 2.912
+- 1.471
+- 2.791
 sleep_joints:
 - 0.0
 - 0.55
@@ -20,4 +20,4 @@ slop_pos:
 - 0.009296538317106862
 - -0.6781121618352461
 - -1.3928153696914873
-workspace_name: default_ws
+workspace_name: default
