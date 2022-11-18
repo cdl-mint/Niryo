@@ -124,7 +124,7 @@ Our industrial use case is the Niryo Ned robot with the ROS programming and the 
 ## Contact
 Burcu Taspinar - 
 
-Youtube Link: [https://www.youtube.com/channel/UC4Gn8bjBU00AME4R17MIqgA](youtube channel)
+Youtube Link: [[https://www.youtube.com/channel/UC4Gn8bjBU00AME4R17MIqgA](https://www.youtube.com/watch?v=NVb2YjT2sRI)](youtube channel)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
