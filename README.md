@@ -10,4 +10,11 @@
         - Webots
         - Moveit
         - Gazebo
-   - Examples
+   - Use Cases
+   
+   
+ ## General Points to Consider when setting up the Ned Robot:
+ 
+ Since we used the ros melodic version for setting up the niryo robot the respective ubuntu version was needed to be installed on the remote pc. This was of the ubuntu version 18.04
+ 
+ 
