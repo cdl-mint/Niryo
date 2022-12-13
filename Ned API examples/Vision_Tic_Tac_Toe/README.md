@@ -21,3 +21,8 @@ Things to change in the code itself:
      - observation pose (this position should contain all landmarks inside of the vision)
      
 In order to change the configurations on the yaml file please see the readme file at the beginning of the Niryo readme file
+
+
+Furthermore, please see this youtube link on our CDL-MINT channel. It is a demonstration that was presented at the Haus der Industrie in Vienna : Youtube Link: [[https://www.youtube.com/channel/UC4Gn8bjBU00AME4R17MIqgA](https://www.youtube.com/watch?v=NVb2YjT2sRI)](youtube channel)
+
+
