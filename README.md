@@ -15,9 +15,15 @@
    
  ## General Points to Consider when setting up the Ned Robot:
  
- Since we used the ros melodic version for setting up the niryo robot the respective ubuntu version, needed to be installed on the remote pc. This was of the ubuntu version 18.04.
+ The robot Ned is a 6 axis-collaborative robot. Since we used the ros melodic version for setting up the niryo robot the respective ubuntu version, needed to be installed on the remote pc. This was of the ubuntu version 18.04.
  
- The Ned 1 package comes with a ready assembled robot. Depending on the application, there might be specific setups needed. However these will be described carefully in each application at the readme file. Therefore the software steps needed for ned 1 will be listed here:
+ The Ned 1 package comes with a ready assembled robot. Depending on the application, there might be specific setups needed. However these will be described carefully in each application at the readme file. 
+ 
+ As you can see on the figure below, the setup of Ned with the vision kit comes already in a ready to use way:
+ 
+  <img src="images/niryo_robot.png" width="300" height="200">
+ 
+ Therefore the software steps needed for ned 1 will be listed here:
  
  1. First it is highly adviced to install the niryo studio related to the operating system of the computer and the version of the niryo robot on this website: https://niryo.com/download/ 
  
