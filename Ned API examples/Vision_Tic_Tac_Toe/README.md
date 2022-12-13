@@ -19,3 +19,5 @@ Things to change in the code itself:
   - Data which needs to be changed in the tic_tac_toe_config.yaml file:
      - workspace of the niryo robot (this is done via calibration of the visual set)
      - observation pose (this position should contain all landmarks inside of the vision)
+     
+In order to change the configurations on the yaml file please see the readme file at the beginning of the Niryo readme file
