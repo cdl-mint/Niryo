@@ -15,6 +15,9 @@
    
  ## General Points to Consider when setting up the Ned Robot:
  
- Since we used the ros melodic version for setting up the niryo robot the respective ubuntu version was needed to be installed on the remote pc. This was of the ubuntu version 18.04
+ Since we used the ros melodic version for setting up the niryo robot the respective ubuntu version was needed to be installed on the remote pc. This was of the ubuntu version 18.04.
+ 
+ The Ned 1 package comes with a ready assembled robot. Depending on the application, there might be specific setups needed. However these will be described carefully in each application at the readme file. Therefore the software steps needed for ned 1 will be listed here:
+ 1. 
  
  
