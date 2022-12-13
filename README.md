@@ -18,9 +18,12 @@
  Since we used the ros melodic version for setting up the niryo robot the respective ubuntu version was needed to be installed on the remote pc. This was of the ubuntu version 18.04.
  
  The Ned 1 package comes with a ready assembled robot. Depending on the application, there might be specific setups needed. However these will be described carefully in each application at the readme file. Therefore the software steps needed for ned 1 will be listed here:
- 1. 
+ 
+ 1. As you can see on the figure below, in order to get the ip address you need to install the niryo studio from the website: https://niryo.com/download/ 
  
  <img src="images/magnifier.png" width="300" height="200">
+ 
+ Additionally you can see on the figure below how the ip address pops up after the magnifier has been selected
  <img src="images/pop_up_ip_address.png" width="300" height="200">
  <img src="images/connected_ip_address.png" width="300" height="200">
  <img src="images/niryo_studio_frontend.png" width="300" height="200"> 
