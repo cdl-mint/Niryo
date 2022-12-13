@@ -31,7 +31,8 @@
  <img src="images/magnifier.png" width="300" height="200">
  
  
- After clicking on the magnifier you can see the options from the dropdown menu and also the ip address of the robot which you want to connect to.
+ After clicking on the magnifier you can see the options from the dropdown menu and also the ip address of the robot which you want to connect to. What is important to consider regarding the connection to the ip address is that the wifi settings are set up according to the right network. The other options on connecting to the niryo robot are via the robot's local hotspot or an ethernet connection. On this website you can find a more detailed description: https://docs.niryo.com/product/niryo-studio/v4.0.0/en/source/connection.html
+ 
  <img src="images/pop_up_ip_address.png" width="300" height="200">
  
  2. Once you are connected to the niryo robot, there should be a 3D CAD physical model that should be visible on the studio. If there is a camera plugged into the robot via usb, then this should also appear under "Camera Streaming". This you can see next to the "3D View" tab.
