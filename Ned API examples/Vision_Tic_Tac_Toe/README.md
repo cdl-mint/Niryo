@@ -25,7 +25,14 @@ In order to change the workspace make sure to mount the tip on to the robot as s
 
 <img src="calibration_tip.jpeg" width="400" height="400">
      
-In order to change the configurations on the yaml file please see the readme file at the beginning of the Niryo readme file
+4. Then, for the vision set make sure to use the calibration tip correctly for the four landmarks
+
+<img src="visible_landmarks.jpeg"  width="300" height="200">
+
+5. After all the configurations are done, make sure to have the game field of the tic tac toe in a 3x3 field drawn as shown below 
+
+
+<img src="vision_kit.jpeg"  width="300" height="200">
 
 
 Furthermore, please see this youtube link on our CDL-MINT channel. It is a demonstration that was presented at the Haus der Industrie in Vienna : Youtube Link: [[https://www.youtube.com/channel/UC4Gn8bjBU00AME4R17MIqgA](https://www.youtube.com/watch?v=NVb2YjT2sRI)](youtube channel)
