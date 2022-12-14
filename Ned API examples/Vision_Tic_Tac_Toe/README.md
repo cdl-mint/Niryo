@@ -10,7 +10,7 @@ There were several modifications done on the Tic-Tac-Toe software of Ned:
 
 
 
-For getting started with playing the Tic-Tac-Toe, make sure to know the ip address of the niryo robot, this you can find via the general description of setting up the niryo robots at the beginning of the Niryo folder.
+For getting started with playing the Tic-Tac-Toe, make sure to know the ip address of the niryo robot, this you can find via the general description of setting up the niryo robots at the beginning of the Niryo folder. In which the Niryo Studio is for connecting to the Niryo Robot.
 
 Afterwards pull the code from this folder and run the "tictactoe_vision.py" code on any python editor you wish. What is important is that the pyniryo package is installed via: pip install pyniryo
 
