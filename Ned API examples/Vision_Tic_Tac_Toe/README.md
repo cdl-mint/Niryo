@@ -23,7 +23,7 @@ Things to change in the code itself:
 
 In order to change the workspace make sure to mount the tip on to the robot as shown on figure:
 
-<img src="calibration_tip.jpeg" width="400" height="400">
+<img src="calibration_tip.jpeg" width="300" height="300">
      
 4. Then, for the vision set make sure to use the calibration tip correctly for the four landmarks
 
