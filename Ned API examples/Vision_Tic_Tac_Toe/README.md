@@ -21,7 +21,7 @@ Things to change in the code itself:
      - observation pose (this position should contain all landmarks inside of the vision)
 
 
-In order to change the workspace make sure to mount the tip on to the robot as shown on figure:
+In order to change the workspace make sure to mount the calibration tip on to the robot as shown on figure:
 
 <img src="calibration_tip.jpeg" width="300" height="300">
      
