@@ -3,7 +3,7 @@
 ### The folders are divided into the several functionalities of Ned and Use Cases we have tried out for the Niryo Robot
 
 
-1. [Ned API examples] (./Ned API examples):
+1. [Ned_API_examples] (./Ned API examples):
    - Vision conditioning conveyor belt
 2. [Ned_ROS](./Ned_ROS):
    - Simulations:
