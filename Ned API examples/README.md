@@ -61,7 +61,7 @@ We have used the Ned robot for our CDL MINT projects for several cases. On our r
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Here, you will find the general steps necessary for starting any ROS or python API project with Ned and then you will find the several st
+Here, you will find the general steps necessary for starting any ROS or python API project with Ned robot and then you will find the several st
 ### Prerequisites
 
 Having the necessary hardware available for the project.
