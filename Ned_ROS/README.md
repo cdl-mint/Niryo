@@ -7,7 +7,7 @@ The picture below shows the setup of the robot with the conveyor belts right and
 
 <img src="images/Conveyor_Belts.jpeg" alt="Logo" width="300" height="200">
 
-The steps to follow for the setup of the robot are:
+The steps to follow for the setup of the Ned robot are:
 1. Mount the IR Sensor on the conveyor belt.
 2. Plug the communication wires behind the niryo robot Ned. 
 3. Let the conveyor belts move by switching the power supply on. 
