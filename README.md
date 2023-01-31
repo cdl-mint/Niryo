@@ -1,23 +1,19 @@
 # Niryo
  
-### The folders are divided into the several functionalities of Ned and Use Cases we have tried out for the Niryo Robot
+### The folders are divided into the several Use Cases of the Ned Robot which we prepared:
 
 
-1. [Conveyor Belt] (./Conveyor Belt):
-   - Vision conditioning conveyor belt
-2. [Vision Tic Tac Toe](./Vision Tic Tac Toe):
-   - Simulations:
-        - Webots
-        - Moveit
-        - Gazebo
-   - Use Cases
+1. Conveyor Belt: Contains the Use Case for the connection with ROS (and the simulation tools of ROS too) and with an interface to an API
+2. Vision Tic Tac Toe: This is a plug and play use case for playing tic tac toe with the Ned robot
    
    
- ## General Points to Consider when setting up the Ned Robot:
+ ## General Points for the Software Installation:
  
- The robot Ned is a 6 axis-collaborative robot. Since we used the ros melodic version for setting up the niryo robot the respective ubuntu version, needed to be installed on the remote pc. This was of the ubuntu version 18.04.
+ The Ned robot is a 6 axis-collaborative robot. The Ned robot is based on the ros melodic version and the corresponding ubuntu version for this is the 18.04 version.
  
- The Ned 1 package comes with a ready assembled robot. Depending on the application, there might be specific setups needed. However these will be described carefully in each application at the readme file. 
+ 
+ ## General Points for the Hardware Installation:
+ The Ned 1 package comes with a ready assembled robot. Depending on the application, there might be specific setups needed. However these will be described carefully in each folder stated above. 
  
  As you can see on the figure below, the setup of Ned with the vision kit comes already in a ready to use way:
  
