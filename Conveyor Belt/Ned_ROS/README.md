@@ -13,4 +13,4 @@ The steps to follow for the setup of the Ned robot are:
 3. Let the conveyor belts move by switching the power supply on. 
 4. Make sure to label everything correctly since there are two conveyor belts it is important to label the conveyor belt correctly.
 5. For the visual sets, it is important to get the correct coordinates of the robot arm's positions and the joints. For this the correct positions can be taken from the NiryoStudio exe file. 
-6. In the code niryo_conveyors.py provided at the github repository, the three positions are stated as: box_position, obs_conv_left and obs_conveyor_right. 
+6. In the code Vision_Conditioning_Conveyors.py provided at the github repository, the workspace_name is: conveyor_left. The other names are the positions: observation_pose and center_conditioning_pose. These positions are set when the learning mode is on. 
