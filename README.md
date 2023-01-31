@@ -3,9 +3,9 @@
 ### The folders are divided into the several functionalities of Ned and Use Cases we have tried out for the Niryo Robot
 
 
-1. [Ned API examples] (./Ned_API_examples):
+1. [Conveyor Belt] (./Conveyor Belt):
    - Vision conditioning conveyor belt
-2. [Ned_ROS](./Ned_ROS):
+2. [Vision Tic Tac Toe](./Vision Tic Tac Toe):
    - Simulations:
         - Webots
         - Moveit
