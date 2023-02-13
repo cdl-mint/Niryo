@@ -4,7 +4,7 @@
 
 
 1. Conveyor Belt: Contains the Use Case for the connection with ROS (and the simulation tools of ROS too) and with an interface to an API
-2. ["Vision Tic Tac Toe"]: This is a plug and play use case for playing tic tac toe with the Ned robot
+2. [Vision Tic Tac Toe](Vision Tic Tac Toe): This is a plug and play use case for playing tic tac toe with the Ned robot
    
    
  ## General Points for the Software Installation:
