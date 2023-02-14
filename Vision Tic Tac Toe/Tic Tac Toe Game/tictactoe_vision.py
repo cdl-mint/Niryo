@@ -11,7 +11,7 @@ from pyniryo import *
 from game import TicTacToe, load_yaml
 
 # Connecting to robot
-robot_ip_address = "10.10.10.10"  # Replace by robot ip address, "10.10.10.10" in hotspot mode
+robot_ip_address = "192.168.0.102"  # Replace by robot ip address, "10.10.10.10" in hotspot mode
 client = NiryoRobot(robot_ip_address)
 # joints = client.get_joints()
 # joints = client.joints
@@ -139,7 +139,7 @@ if __name__ == '__main__':
         "loop": 0,
         "turn_end": 2,
         "menu": 0,
-        "rand": 5,
+        "rand": 95,
         "slope": 0
     }
     # param is a table containing all the parameters that the user can change

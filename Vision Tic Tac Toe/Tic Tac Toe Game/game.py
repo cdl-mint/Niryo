@@ -193,8 +193,9 @@ class TicTacToe:
         for x in range(0, 3):
             for y in range(0, 3):
                 if compiled_grid[x][y] == 0:
-                    compiled_grid[x][y] = 1
-                    score_grid[x][y] += self.ai_recursive(compiled_grid, -1)
+                    compiled_grid[x][y] = 1                    
+                    if randomness > 5:
+                        score_grid[x][y] += self.ai_recursive(compiled_grid, -1)
                     compiled_grid[x][y] = 0
                 else:
                     score_grid[x][y] = -9 ** 9 - 1

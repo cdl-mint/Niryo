@@ -83,9 +83,12 @@ class RobotPlayer:
 
     def wait_for_moving_arm(self):
         print("waiting for player to move the arm...")
-        #image = img.imread('Start.png')
-        #plt.imshow(image)
-        #plt.show()
+        image = img.imread('Start.png')
+        imgplot =plt.imshow(image)
+        plt.axis('off')
+        plt.ion()
+        plt.show()
+        plt.pause(1)
         self.__client.move_joints(*self.__sleep_joints)
         self.__client.set_learning_mode(True)
         time.sleep(3)
@@ -100,7 +103,7 @@ class RobotPlayer:
                     break
                 joints_o[x] = joints_o[x] * 0.9 + joints[x] * 0.1
             time.sleep(0.1)
-
+        plt.close()
         time.sleep(1)
         self.__client.set_learning_mode(False)
 
@@ -127,13 +130,26 @@ class RobotPlayer:
 
     def win_action(self):
         print("robot win")
+        image = img.imread('Gewonnen.png')
+        imgplot =plt.imshow(image)
+        plt.axis('off')
+        plt.ion()
+        plt.show()
+        plt.pause(1)
         self.__client.move_joints(*[0, 0, 0.6, 0, 0, 0])
         self.__client.move_joints(*[0, 0.6, -0.5, 0, 0, 0])
         self.__client.move_joints(*[0, 0, 0.6, 0, 0, 0])
         self.__client.wait(1)
+        plt.close()
 
     def lose_action(self):
         print("player win")
+        image = img.imread('Verloren.png')
+        imgplot =plt.imshow(image)
+        plt.axis('off')
+        plt.ion()
+        plt.show()
+        plt.pause(1)
         self.__client.move_joints(*[0.950, 0.35, -1.02, 0.025, 0.129, -1.45])
         self.__client.move_joints(*[0.950, 0.35, -1.02, 0.025, -0.444, -1.45])
         self.__client.move_joints(*[0.800, 0.35, -1.02, 0.025, -0.444, -1.45])
@@ -142,21 +158,36 @@ class RobotPlayer:
         self.__client.move_joints(*[1.05, 0.35, -1.02, 0.025, -0.444, -1.45])
         self.__client.move_joints(*self.__sleep_joints)
         self.__client.wait(1)
+        plt.close()
 
     def none_action(self):
         print("nobody win")
+        image = img.imread('Unentschieden.png')
+        imgplot =plt.imshow(image)
+        plt.axis('off')
+        plt.ion()
+        plt.show()
+        plt.pause(1)
         self.__client.move_joints(*[0, 0, 0, 0, 0, 0])
         self.__client.move_joints(*[0, 0, 0, -1.570, 0, 0])
         self.__client.move_joints(*[0, 0, 0, 1.570, 0, 0])
         self.__client.move_joints(*[0, 0, 0, 0, 0, 0])
+        plt.close()
 
     def cheat_action(self):
         print('Ned thinks you cheated ! :( ')
+        image = img.imread('Schummeln.png')
+        imgplot =plt.imshow(image)
+        plt.axis('off')
+        plt.ion()
+        plt.show()
+        plt.pause(1)
         self.__client.move_joints(*[0,0.6,-0.8,0,1,-1.4])
         self.__client.move_joints(*[0,0.6,-0.8,-0.4,1,-1.4])
         self.__client.move_joints(*[0,0.6,-0.8,0.7,1,-1.4])
         self.__client.move_joints(*[0,0.6,-0.8,-0.4,1,-1.4])
         self.__client.move_joints(*[0,0.6,-0.8,0,1,-1.4])
+        plt.close()
         time.sleep(1)
 
     def place_on_grid(self, grid, x, y, z=0):
