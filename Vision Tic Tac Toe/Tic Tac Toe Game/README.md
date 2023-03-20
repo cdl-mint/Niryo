@@ -37,6 +37,20 @@ In order to change the workspace make sure to mount the calibration tip on to th
 
 <img src="vision_kit.jpeg"  width="300" height="200">
 
+## How to Play Tic-Tac-Toe with Niryo
+
+### Rules of the Game: 
+1. The Robot first scans the field for items. If there are items on the field it will clean the field. Otherwise the robot will move back to its starting position and waits for the player's turn. 
+
+2. After the player makes the move, the robot needs to be nudged so that the robot knows it is its turn. 
+
+3. Afterwards, the robot knows that it is its turn and it will have a pop-up representation of the field where TicTacToe can be played. 
+
+4. The randomness number defines the intelligence of the robot. This will determine the chance of winning against the robot. 
+
+5. Depending on the intelligence level chosen, there will be 3 outcomes to the game. The robot can win, loose or it is a tie.
+
+6. For each round, the python code must be restarted. 
 
 Furthermore, please see this youtube link on our CDL-MINT channel. It is a demonstration that was presented at the Haus der Industrie in Vienna : Youtube Link: [[https://www.youtube.com/channel/UC4Gn8bjBU00AME4R17MIqgA](https://www.youtube.com/watch?v=NVb2YjT2sRI)](youtube channel)
 
