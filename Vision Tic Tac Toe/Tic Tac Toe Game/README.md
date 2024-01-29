@@ -1,4 +1,4 @@
-# Application exemples: Vision tic tac toe
+# Application examples: Vision tic tac toe
 
 Documentation from the official niryo website is available [here](https://niryo.com/docs/niryo-one/niryo-one-industrial-demonstrators/vision-tic-tac-toe/).
 
